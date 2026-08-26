@@ -18,7 +18,7 @@
 
         const DEFAULT_SITE_DATA = {
             hero: {
-                badge: "Chak 99 GB Nehang's Premier Hub",
+                badge: "TMS | Chak 99 GB Nehang Badala",
                 title1: "Your Health is",
                 title2: "Our Sole Mission.",
                 desc: "Providing 100% genuine medical supplies, baby care, surgical items, and general groceries under the expert supervision of Muhammad Pervaiz."
