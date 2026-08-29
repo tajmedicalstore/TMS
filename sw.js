@@ -1,9 +1,3 @@
-/*
- * Taj Medical Store — Website & Admin System
- * Made By Farhan (Farhan Ali) — All Rights Reserved.
- * Contact: tajmedicalstoreofficial@gmail.com
- */
-
 const CACHE_NAME = 'taj-medical-store-v2';
 const APP_SHELL = [
     'index.html',
